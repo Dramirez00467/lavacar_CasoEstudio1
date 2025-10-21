@@ -1,0 +1,40 @@
+﻿@using lavacarBLL.Dtos
+@model ClienteDto
+
+@{
+    ViewData["Title"] = "Eliminar Cliente";
+}
+
+<h1>Eliminar Cliente</h1>
+
+<h3>¿Estás seguro de que deseas eliminar este cliente?</h3>
+
+<div>
+    <h4>Cliente</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">Nombre</dt>
+        <dd class="col-sm-10">@Model.Nombre</dd>
+
+        <dt class="col-sm-2">Apellido</dt>
+        <dd class="col-sm-10">@Model.Apellido</dd>
+
+        <dt class="col-sm-2">Identificación</dt>
+        <dd class="col-sm-10">@Model.Identificacion</dd>
+
+        <dt class="col-sm-2">Edad</dt>
+        <dd class="col-sm-10">@Model.Edad</dd>
+
+        <dt class="col-sm-2">Teléfono</dt>
+        <dd class="col-sm-10">@Model.Telefono</dd>
+
+        <dt class="col-sm-2">Correo</dt>
+        <dd class="col-sm-10">@Model.Correo</dd>
+    </dl>
+</div>
+
+<form asp-action="EliminarCliente" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

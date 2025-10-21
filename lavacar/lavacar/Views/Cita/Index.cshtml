@@ -1,0 +1,33 @@
+﻿@using lavacarBLL.Dtos
+@model List<CitaDto>
+
+@{
+    ViewData["Title"] = "Listado de Citas";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<button type="button" class="btn btn-primary mb-3" data-bs-toggle="modal" data-bs-target="#modalCrearCita">
+    Crear Nueva Cita
+</button>
+
+<table class="table table-striped" id="tablaCitas">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Cliente</th>
+            <th>Vehículo</th>
+            <th>Fecha</th>
+            <th>Estado</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+</table>
+
+@await Html.PartialAsync("Edit")
+@await Html.PartialAsync("Create")
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script src="~/js/Cita.js" asp-append-version="true"></script>
+}

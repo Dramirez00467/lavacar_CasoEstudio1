@@ -24,6 +24,38 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = 
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Proyectos/Tercer Cuatrimestre 2025/Proyecto de Programación Avanzada Web/Practicas programadas/CasoEstudio1_DianaRamirezAguilar/lavacar_CasoEstudio1/lavacar/lavacar/Views/Cita/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proyectos/Tercer Cuatrimestre 2025/Proyecto de Programación Avanzada Web/Practicas programadas/CasoEstudio1_DianaRamirezAguilar/lavacar_CasoEstudio1/lavacar/lavacar/Views/Cita/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proyectos/Tercer Cuatrimestre 2025/Proyecto de Programación Avanzada Web/Practicas programadas/CasoEstudio1_DianaRamirezAguilar/lavacar_CasoEstudio1/lavacar/lavacar/Views/Cita/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proyectos/Tercer Cuatrimestre 2025/Proyecto de Programación Avanzada Web/Practicas programadas/CasoEstudio1_DianaRamirezAguilar/lavacar_CasoEstudio1/lavacar/lavacar/Views/Cita/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proyectos/Tercer Cuatrimestre 2025/Proyecto de Programación Avanzada Web/Practicas programadas/CasoEstudio1_DianaRamirezAguilar/lavacar_CasoEstudio1/lavacar/lavacar/Views/Cliente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proyectos/Tercer Cuatrimestre 2025/Proyecto de Programación Avanzada Web/Practicas programadas/CasoEstudio1_DianaRamirezAguilar/lavacar_CasoEstudio1/lavacar/lavacar/Views/Cliente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proyectos/Tercer Cuatrimestre 2025/Proyecto de Programación Avanzada Web/Practicas programadas/CasoEstudio1_DianaRamirezAguilar/lavacar_CasoEstudio1/lavacar/lavacar/Views/Cliente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proyectos/Tercer Cuatrimestre 2025/Proyecto de Programación Avanzada Web/Practicas programadas/CasoEstudio1_DianaRamirezAguilar/lavacar_CasoEstudio1/lavacar/lavacar/Views/Cliente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Proyectos/Tercer Cuatrimestre 2025/Proyecto de Programación Avanzada Web/Practicas programadas/CasoEstudio1_DianaRamirezAguilar/lavacar_CasoEstudio1/lavacar/lavacar/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -38,6 +70,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Proyectos/Tercer Cuatrimestre 2025/Proyecto de Programación Avanzada Web/Practicas programadas/CasoEstudio1_DianaRamirezAguilar/lavacar_CasoEstudio1/lavacar/lavacar/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proyectos/Tercer Cuatrimestre 2025/Proyecto de Programación Avanzada Web/Practicas programadas/CasoEstudio1_DianaRamirezAguilar/lavacar_CasoEstudio1/lavacar/lavacar/Views/Vehiculo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWN1bG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proyectos/Tercer Cuatrimestre 2025/Proyecto de Programación Avanzada Web/Practicas programadas/CasoEstudio1_DianaRamirezAguilar/lavacar_CasoEstudio1/lavacar/lavacar/Views/Vehiculo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWN1bG9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proyectos/Tercer Cuatrimestre 2025/Proyecto de Programación Avanzada Web/Practicas programadas/CasoEstudio1_DianaRamirezAguilar/lavacar_CasoEstudio1/lavacar/lavacar/Views/Vehiculo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWN1bG9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proyectos/Tercer Cuatrimestre 2025/Proyecto de Programación Avanzada Web/Practicas programadas/CasoEstudio1_DianaRamirezAguilar/lavacar_CasoEstudio1/lavacar/lavacar/Views/Vehiculo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWN1bG9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Proyectos/Tercer Cuatrimestre 2025/Proyecto de Programación Avanzada Web/Practicas programadas/CasoEstudio1_DianaRamirezAguilar/lavacar_CasoEstudio1/lavacar/lavacar/Views/_ViewImports.cshtml]

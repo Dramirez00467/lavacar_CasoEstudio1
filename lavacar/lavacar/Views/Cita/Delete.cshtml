@@ -1,0 +1,34 @@
+﻿@using lavacarBLL.Dtos
+@model CitaDto
+
+@{
+    ViewData["Title"] = "Eliminar Cita";
+}
+
+<h1>Eliminar Cita</h1>
+
+<h3>¿Estás seguro de que deseas eliminar esta cita?</h3>
+
+<div>
+    <h4>Cita</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">Cliente</dt>
+        <dd class="col-sm-10">@Model.IdCliente</dd>
+
+        <dt class="col-sm-2">Vehículo</dt>
+        <dd class="col-sm-10">@Model.IdVehiculo</dd>
+
+        <dt class="col-sm-2">Fecha</dt>
+        <dd class="col-sm-10">@Model.Fecha?.ToString("yyyy-MM-dd")</dd>
+
+        <dt class="col-sm-2">Estado</dt>
+        <dd class="col-sm-10">@Model.Estado</dd>
+    </dl>
+</div>
+
+<form asp-action="EliminarCita" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

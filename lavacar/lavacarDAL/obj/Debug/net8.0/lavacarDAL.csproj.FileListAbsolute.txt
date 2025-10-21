@@ -1,0 +1,12 @@
+C:\Proyectos\Tercer Cuatrimestre 2025\Proyecto de Programación Avanzada Web\Practicas programadas\CasoEstudio1_DianaRamirezAguilar\lavacar_CasoEstudio1\lavacar\lavacarDAL\bin\Debug\net8.0\lavacarDAL.deps.json
+C:\Proyectos\Tercer Cuatrimestre 2025\Proyecto de Programación Avanzada Web\Practicas programadas\CasoEstudio1_DianaRamirezAguilar\lavacar_CasoEstudio1\lavacar\lavacarDAL\bin\Debug\net8.0\lavacarDAL.dll
+C:\Proyectos\Tercer Cuatrimestre 2025\Proyecto de Programación Avanzada Web\Practicas programadas\CasoEstudio1_DianaRamirezAguilar\lavacar_CasoEstudio1\lavacar\lavacarDAL\bin\Debug\net8.0\lavacarDAL.pdb
+C:\Proyectos\Tercer Cuatrimestre 2025\Proyecto de Programación Avanzada Web\Practicas programadas\CasoEstudio1_DianaRamirezAguilar\lavacar_CasoEstudio1\lavacar\lavacarDAL\obj\Debug\net8.0\lavacarDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Tercer Cuatrimestre 2025\Proyecto de Programación Avanzada Web\Practicas programadas\CasoEstudio1_DianaRamirezAguilar\lavacar_CasoEstudio1\lavacar\lavacarDAL\obj\Debug\net8.0\lavacarDAL.AssemblyInfoInputs.cache
+C:\Proyectos\Tercer Cuatrimestre 2025\Proyecto de Programación Avanzada Web\Practicas programadas\CasoEstudio1_DianaRamirezAguilar\lavacar_CasoEstudio1\lavacar\lavacarDAL\obj\Debug\net8.0\lavacarDAL.AssemblyInfo.cs
+C:\Proyectos\Tercer Cuatrimestre 2025\Proyecto de Programación Avanzada Web\Practicas programadas\CasoEstudio1_DianaRamirezAguilar\lavacar_CasoEstudio1\lavacar\lavacarDAL\obj\Debug\net8.0\lavacarDAL.csproj.CoreCompileInputs.cache
+C:\Proyectos\Tercer Cuatrimestre 2025\Proyecto de Programación Avanzada Web\Practicas programadas\CasoEstudio1_DianaRamirezAguilar\lavacar_CasoEstudio1\lavacar\lavacarDAL\obj\Debug\net8.0\lavacarDAL.sourcelink.json
+C:\Proyectos\Tercer Cuatrimestre 2025\Proyecto de Programación Avanzada Web\Practicas programadas\CasoEstudio1_DianaRamirezAguilar\lavacar_CasoEstudio1\lavacar\lavacarDAL\obj\Debug\net8.0\lavacarDAL.dll
+C:\Proyectos\Tercer Cuatrimestre 2025\Proyecto de Programación Avanzada Web\Practicas programadas\CasoEstudio1_DianaRamirezAguilar\lavacar_CasoEstudio1\lavacar\lavacarDAL\obj\Debug\net8.0\refint\lavacarDAL.dll
+C:\Proyectos\Tercer Cuatrimestre 2025\Proyecto de Programación Avanzada Web\Practicas programadas\CasoEstudio1_DianaRamirezAguilar\lavacar_CasoEstudio1\lavacar\lavacarDAL\obj\Debug\net8.0\lavacarDAL.pdb
+C:\Proyectos\Tercer Cuatrimestre 2025\Proyecto de Programación Avanzada Web\Practicas programadas\CasoEstudio1_DianaRamirezAguilar\lavacar_CasoEstudio1\lavacar\lavacarDAL\obj\Debug\net8.0\ref\lavacarDAL.dll

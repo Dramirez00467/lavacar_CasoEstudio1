@@ -1,0 +1,54 @@
+﻿@model lavacarBLL.Dtos.CitaDto
+
+<!-- Modal Crear Cita -->
+<div class="modal fade" id="modalCrearCita" tabindex="-1" aria-labelledby="formModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+
+            <div class="modal-header">
+                <h5 class="modal-title" id="formModalLabel">Crear Nueva Cita</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+            </div>
+
+            <div class="modal-body">
+                <form id="formCrearCita" asp-action="CrearCita" method="post">
+                    @Html.AntiForgeryToken()
+
+                    <div class="form-group mb-3">
+                        <label asp-for="IdCliente" class="form-label">Cliente</label>
+                        <select asp-for="IdCliente" asp-items="ViewBag.Clientes" class="form-select"></select>
+                        <span asp-validation-for="IdCliente" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="IdVehiculo" class="form-label">Vehículo</label>
+                        <select asp-for="IdVehiculo" asp-items="ViewBag.Vehiculos" class="form-select"></select>
+                        <span asp-validation-for="IdVehiculo" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="Fecha" class="form-label"></label>
+                        <input asp-for="Fecha" class="form-control" type="date" />
+                        <span asp-validation-for="Fecha" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="Estado" class="form-label"></label>
+                        <select asp-for="Estado" class="form-select">
+                            <option>Ingresada</option>
+                            <option>Cancelada</option>
+                            <option>Concluida</option>
+                        </select>
+                        <span asp-validation-for="Estado" class="text-danger"></span>
+                    </div>
+
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-success" id="btnGuardarCambios">Guardar</button>
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                    </div>
+                </form>
+            </div>
+
+        </div>
+    </div>
+</div>

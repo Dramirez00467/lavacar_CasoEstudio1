@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lavacar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca132441e825004a385924c0fa2591949652fd74")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1141633dcc0f6c14243227c83c73db3e89c6ec07")]
 [assembly: System.Reflection.AssemblyProductAttribute("lavacar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lavacar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
